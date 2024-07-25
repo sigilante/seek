@@ -2,7 +2,7 @@
 ::
 :-  %say
 |=  $:  ^
-        [=cord =wain~]
+        [=cord =wain ~]
         ~
     ==
-[%seek-action [%seek cord [%wain wain]]
+[%seek-action [%seek cord [%wain wain]]]
