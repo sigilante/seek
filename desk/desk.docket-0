@@ -1,0 +1,9 @@
+:~  title+'/lib/just'
+    info+'Not more, not less, just right:  native text file display.'
+    color+0x8fbe
+    image+''
+    version+[0 0 1]
+    website+'https://urbit.org/'
+    license+'MIT'
+    site+/apps/just
+==
